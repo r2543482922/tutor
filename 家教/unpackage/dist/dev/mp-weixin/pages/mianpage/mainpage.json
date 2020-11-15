@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "w-calendar": "/components/uni-calendar/uni-calendar"
+  }
+}

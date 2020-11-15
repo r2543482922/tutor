@@ -1,0 +1,42 @@
+{
+  "pages": [
+    "pages/mianpage/mainpage",
+    "pages/login/login",
+    "pages/register/index",
+    "pages/test/NULL"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8",
+    "navigationStyle": "custom"
+  },
+  "tabBar": {
+    "color": "#999999",
+    "selectedColor": "#ff8e16",
+    "borderStyle": "white",
+    "fontSize": "10px",
+    "iconWidth": "30px",
+    "list": [
+      {
+        "pagePath": "pages/mianpage/mainpage",
+        "iconPath": "static/mainpage/homepage-icon-h.png",
+        "selectedIconPath": "static/mainpage/homepage-icon.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/register/index",
+        "iconPath": "static/mainpage/icon-fabu.png",
+        "selectedIconPath": "static/mainpage/icon-fabu.png"
+      },
+      {
+        "pagePath": "pages/login/login",
+        "iconPath": "static/mainpage/homepage-gr-icon.png",
+        "selectedIconPath": "static/mainpage/homepage-gr-icon-2.png",
+        "text": "个人"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

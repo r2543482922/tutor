@@ -1,0 +1,162 @@
+page {
+		height: 100%;
+	}
+
+.main {
+		width: 375px;
+		height: 667px;
+}
+
+.mainHead {
+	width: 363px;
+	height: 12px;
+	margin: 0 6px 20px 6px;
+}
+
+.login-top {
+	width: 375px;
+	height: 244px;
+	background-color: #ffffff;
+	
+	
+}
+
+.logintop {
+	width: 30px;
+	height: 14px;
+	font-family: PingFangSC-Regular;
+	font-size: 15px;
+	font-weight: normal;
+	font-stretch: normal;
+	letter-spacing: 0px;
+	color: #666666;
+	margin-left: 330px;
+}
+
+.hello {
+	font-family: PingFangSC-Regular;
+	font-size: 37px;
+	font-weight: normal;
+	font-stretch: normal;
+	letter-spacing: 0px;
+	color: #333333;
+	margin-left: 41px;
+	margin-top: 53px;
+}	
+
+.welcom {
+	
+		font-family: PingFangSC-Light;
+		font-size: 30px;
+		font-weight: normal;
+		font-stretch: normal;
+		letter-spacing: 0px;
+		color: #666666;
+		margin-left: 41px;
+		padding-top: 21px;
+}
+
+.login {
+		width: 285px;
+		height: 269px;
+		margin-top:36px;
+		margin-left: 45px;
+}
+.column {
+		width: 285px;
+		height: 22px;
+		display: flex;
+		flex-direction: column;
+}
+.row {
+		width: 285px;
+		height: 14px;
+		display: flex;
+		justify-content: space-between;
+		line-height: 8px;
+}
+
+.password {
+		font-family: PingFangSC-Regular;
+		font-size: 15px;
+		font-weight: normal;
+		font-stretch: normal;
+		letter-spacing: 0px;
+		color: #333333;
+		margin-left: 21px;
+}
+.equal{
+	
+	font-family: PingFangSC-Regular;
+	font-size: 15px;
+	font-weight: normal;
+	font-stretch: normal;
+	letter-spacing: 0px;
+	color: #999999;
+	opacity: 0.5;
+	margin-right: 21px;
+	
+}
+.line {
+		width: 60px;
+		height: 2px;
+		background-color: #eb9229;
+		margin-left: 21px;
+}
+.line-2 {
+		width: 285px;
+		height: 1px;
+		background-color: #ff8e16;
+		opacity: 0.5;
+}
+.kuang1 {
+		width: 285px;
+		height: 40px;
+		border-radius: 22px;
+		border: solid 1px #e4e8f3;
+		margin-top: 32px;
+}
+
+.input {
+		margin-top: 8px;
+		margin-left: 21px;
+}
+
+.kuang2 {
+		width: 285px;
+		height: 40px;
+		border-radius: 22px;
+		border: solid 1px #e4e8f3;
+		margin-top: 21px;
+		display: flex;
+		flex-direction: row;
+}
+.icon-eye {
+		width: 13px;
+		height: 6px;
+		margin-top: 18px;
+		margin-left: 55px;
+	
+}
+
+button[type='primary'] {
+	background-color: #df9543;
+	color: #ffffff;
+}
+										
+.button {
+		width: 285px;
+		height: 44px;
+		border-radius: 22px;
+		margin-top: 49px;
+}
+
+.forget {
+		font-family: PingFangSC-Regular;
+		font-size: 14px;
+		font-weight: normal;
+		font-stretch: normal;
+		letter-spacing: 0px;
+		color: #333333;
+		margin-left: 155px;
+}
